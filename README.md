@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Daniel Cholula</h1>
 <h3 align="center">A passionate frontend developer from Mexico and Linux User</h3>
 
-- 🌱 I’m currently learning **Python , React and Js**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Linux or Python**
 
